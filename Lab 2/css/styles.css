@@ -1,0 +1,35 @@
+.highlight-text {
+    color: #ff0000;
+}
+
+.header {
+    /* Background color is different in the screenshot (yellow) than the written instruction (light grey) */
+    background-color: #f0f0f0; 
+    padding: 55px;
+    margin-left: 55px;
+    border: 2px solid #000;
+}
+
+.h1-text {
+    color: #1e00ff;
+}
+
+.week2-input-group {
+    padding-bottom: 15px;
+}
+
+.label-input{
+    padding-bottom: 10px;
+}
+
+.label-select{
+    padding-bottom: 10px;
+}
+
+.submit-button {
+    padding-bottom: 10px;
+}
+
+.footer-text {
+    padding-bottom: 10px;
+}
